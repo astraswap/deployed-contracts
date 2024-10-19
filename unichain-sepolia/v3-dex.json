@@ -1,0 +1,19 @@
+{
+    "MasterChefV3": "0xC12CB48176eCb7C7077360Ea78EaE088ebc282AD",
+    "SmartRouter": "0xBF923aE76bf3cc567fA7134646E260eEa4f87C8a",
+    "SmartRouterHelper": "0x5A66Dd1990e616cF8F2f98A24a3d1fbb4456b699",
+    "MixedRouteQuoterV1": "0x059EF7AAB9CF7e77f68D9f66a57330DE62a128e5",
+    "QuoterV2": "0x0793E705B815Ff01a7E8E60C4E742D611F664198",
+    "TokenValidator": "0x7fe7D0156fca93b6974ed8D47d470B90e574B0a0",
+    "AstraV3Factory": "0xDC4847CAC433D2f694Bd0d6de2242849763e0f2D",
+    "AstraV3PoolDeployer": "0x1A523CeF3A2F00ADec494A30Afcb59d04A9f4f29",
+    "AstraV3Pool": "0xbc46692325e4c4bC2a710313DE4495AFf7715Dfe",
+    "SwapRouter": "0xF097898050C7D1B3469f438777B7734Fc1a3ed0A",
+    "V3Migrator": "0x04Dd37b7D726F9F74Ed0a569413f2A5eD890D8b8",
+    "TickLens": "0xe0885ACb60DA20D083bE81fc3a7cd855Be558676",
+    "NonfungibleTokenPositionDescriptor": "0xeA75C57dD1f52E879Fae0ef7D48417fbf645Bbdd",
+    "NonfungiblePositionManager": "0x166FB4D7978b726Ad024AF111bd87Bca287Ac4aE",
+    "AstraInterfaceMulticall": "0xEf4F57b2Bb6f2C0C8AD0c3962f7649Aaa5b9138d",
+    "AstraV3LmPoolDeployer": "0x9e2EBcbf097B42853a2e416437bde041A1b5E1fb"
+  }
+  
